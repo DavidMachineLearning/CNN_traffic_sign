@@ -3,7 +3,7 @@ Traffic signs classification using CNN
 
 ## Overview
 In this project I will create a model using Tensorflow which can identify the type of traffic sign from an image.
-At the end I will also define a function which takes an url link as imput (poining to traffic sign image),
+At the end I will also define a function which takes an url link as input (poining to traffic sign image),
 load it, preprocess it and then display it with the predicted label!
 
 Here you can download the [Dataset](https://bitbucket.org/jadslim/german-traffic-signs)

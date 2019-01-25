@@ -12,7 +12,7 @@ The dataset contains images (32x32 pixels) of german traffic signs.
 
 ## Results
 ### The model was able to correctly classify 97.94% of the test set!
-[Model](!Model.png)
+![Model](Model.png)
 
 ## Preprocessing
 - Convert the image to gray scale 

@@ -11,7 +11,7 @@ Here you can download the [Dataset](https://bitbucket.org/jadslim/german-traffic
 The dataset contains images (32x32 pixels) of german traffic signs.
 
 ## Results
-#### The model was able to correctly classify 97.94% of the test set!
+### The model was able to correctly classify 97.94% of the test set!
 
 ## Preprocessing
 - Convert the image to gray scale 

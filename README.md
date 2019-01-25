@@ -10,6 +10,20 @@ Here you can download the [Dataset](https://bitbucket.org/jadslim/german-traffic
 
 The dataset contains images (32x32 pixels) of german traffic signs.
 
+## Results
+#### The model was able to correctly classify 97.94% of the test set!
+
+## Preprocessing
+- Convert the image to gray scale 
+- histogram equalization to improve the contrast
+- normalization
+
+## Extra processes
+- Data augmentation (train set and validation set)
+
+## Hardware
+For this project I have used a GTX 1050 Ti from NVIDIA
+
 ## Libraries
 In order to execute the code you will need:
 - Pillow

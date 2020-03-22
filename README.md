@@ -2,7 +2,7 @@
 German traffic signs classification using CNN
 
 ## Detailes
-A detailed documentation step by step can be found [here](https://davidforino-aisolutions.com)
+A detailed documentation step by step can be found [here](https://davidforino-aisolutions.com/traffic-signs-cnn/)
 
 Here you can download the [Dataset](https://bitbucket.org/jadslim/german-traffic-signs)
 
